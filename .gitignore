@@ -1,0 +1,8 @@
+# Este repositório aceita somente a documentação pública revisada.
+*
+!.gitignore
+!README.md
+!docs/
+!docs/*.md
+!assets/
+!assets/*.png
